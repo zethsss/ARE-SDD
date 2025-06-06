@@ -1,4 +1,4 @@
-## Baisc tree classification using Naive Bayes and K-Nearest Neighbors
+## Basic tree classification using Naive Bayes and K-Nearest Neighbors
 
 
 # Dataset Description
